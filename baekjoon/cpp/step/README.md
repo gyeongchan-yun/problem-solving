@@ -6,3 +6,4 @@ link: https://www.acmicpc.net/step
 - 반복문 (loop/)
 - 1차원 배열 (array/1d/)
 - 함수 (function/)
+- 문자열 (string/)

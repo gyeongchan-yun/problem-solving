@@ -8,7 +8,6 @@ for input in inputs:
     temp = bucket[dst_idx-1]
     bucket[dst_idx-1] = bucket[src_idx-1]
     bucket[src_idx-1] = temp
-    
+
 print(' '.join([str(elem) for elem in bucket]))
-    
-    
+

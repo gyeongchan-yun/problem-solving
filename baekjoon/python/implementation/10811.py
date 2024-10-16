@@ -11,5 +11,5 @@ for input in inputs:
     for i in range(src_idx-1, dst_idx):
         bucket[i] = temp[temp_idx]
         temp_idx += 1
-    
+
 print(' '.join([str(elem) for elem in bucket]))
